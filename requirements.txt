@@ -1,0 +1,10 @@
+transformers
+torch
+torchaudio
+sentencepiece
+soundfile
+boto3
+requests
+spacy
+websockets
+python-dotenv
